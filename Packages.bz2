@@ -1,1 +1,15 @@
-
+Package: com.itornadoq8.ibertyLite
+Version: 0.2.13
+Section: Tweaks
+Maintainer: itornadoq8 <dd501dd@gmail.com>
+Depends: firmware (>7.0), mobilesubstrate
+Architecture: iphoneos-arm
+Filename: ./debs/com.itornadoq8.LibertyLite.TR1_iphoneos-arm.deb
+Size: 82322
+MD5sum: 8026a4bc92fef90d25fcb1f8d0a012f2
+SHA1: c0b5c207ba343ae81285ebaf77693039e631ccea
+SHA256: 8e68e80c44ca50f854db3259d697842c702d45e21aa87d6292ff02c533a543a8
+Description: اداة لتخطي الجلبريك
+Name: LibertyLite (Beta)
+Author: itornadoq8 <dd501dd@gmail.com>
+Depiction: https://itornadoq8.github.io/repo/depictions/?p=com.itornadoq8.ibertyLite
